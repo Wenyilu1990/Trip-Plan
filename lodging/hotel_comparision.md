@@ -31,6 +31,9 @@ Hotels in San Diego
 -------------
 Based on price on December 20 with 3 rooms
 
+Urban Boutique Hotel
+
+
 **Super 8 Sea World Zoo Area**
 445 Hotel Circle South, Mission Valley, San Diego, CA 92108, United States of America
 3 ◊ Queen Room - Disability Access	$239.97
