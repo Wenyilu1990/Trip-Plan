@@ -3,11 +3,11 @@ Lodging Plan for trip in December
 
  #Hotel comparison
 
-**Hotels in San Diego**
+Hotels in San Diego
 -------------
 Based on price on December 20 with 3 rooms
 
-Urban Boutique Hotel
+**Urban Boutique Hotel**
 1654 Columbia Street San Diego CA
 3 Standard Rooms $240
 
