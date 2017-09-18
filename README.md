@@ -24,5 +24,5 @@
 After careful comparison, we decided to rent cars from Budget. **_First of all_**, it is a big company which has branches across the country, so it is pretty reliable; **_Secondly_**, it ranks first in customer feedback; **_Thirdly_**, the store locates inside the airport, which means we do not have to take shuttle to another place to pickup the car; **_Fourthly_**, its price ranks second in the table, which is pretty good for economic travel; **_Fifthly_**, one of our members had good experience with budget when she traveled to San Diego.
 
 ### 4. Booking conformation
-[Confirmation receipt](https://drive.google.com/open?id=0BwLFLGaSeBrnbG53enhkYW82cFE)
+![Confirmation receipt]()
 
