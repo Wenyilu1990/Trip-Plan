@@ -1,7 +1,7 @@
 Lodging Plan for trip in December
 ===================
 
-#Hotel comparison
+ #Hotel comparison
 
 Hotels in San Diego
 -------------
@@ -23,5 +23,4 @@ Urban Boutique Hotel
 3888 Greenwood Street, Midway-Pacific Highway, San Diego, CA 92110, United States of America
 3 Traditional Queen Room with Disability Access	$387
 
-#Hotel booking
 
