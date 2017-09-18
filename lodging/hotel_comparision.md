@@ -3,7 +3,7 @@ Lodging Plan for trip in December
 
  #Hotel comparison
 
-Hotels in San Diego
+**Hotels in San Diego**
 -------------
 Based on price on December 20 with 3 rooms
 
