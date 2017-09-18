@@ -2,15 +2,15 @@
 
 ### 1. Compare different car-rental companies
 
-Company | Customer feedback | Price 
---- | --- | --- | ---
-**National** | 130 reviews 4 star |  $402.67 _total_ (Full size Sedan); $610.20 _total_ (Standard SUV)
-**Alamo** | 426 reviews 4 star | $315.87 _total_ (Full size Sedan); $569.83 _total_ (Standard SUV)
-**Avis** | 14 reviews 4.5 star| $365 _total_ (Full size Sedan); $597 _total_ (Standard SUV)
-**Budget** | 14 reviews 4.5 star | $221 _total_ (Full size Sedan); $481 _total_ (Standard SUV)
-**United** | 31 reviews 4 star | $188.52 _total_ (Full size Sedan); $218.76 _total_ (Standard SUV)
-**Enterprise** | 407 reviews 3.5 star | $265.51 _total_ (Full size Sedan); $529.71 _total_ (Standard SUV)
-**Herts** | 372 reviews 2.5 star | $320.83 _total_ (Full size Sedan); $481.31 _total_ (Standard SUV)
+| Company | Customer feedback | Price |
+| :--- | :---: | ---: | 
+| **National** | 130 reviews 4 star |  $402.67 _total_ (Full size Sedan); $610.20 _total_ (Standard SUV) |
+| **Alamo** | 426 reviews 4 star | $315.87 _total_ (Full size Sedan); $569.83 _total_ (Standard SUV) |
+| **Avis** | 14 reviews 4.5 star| $365 _total_ (Full size Sedan); $597 _total_ (Standard SUV) |
+| **Budget** | 14 reviews 4.5 star | $221 _total_ (Full size Sedan); $481 _total_ (Standard SUV) |
+| **United** | 31 reviews 4 star | $188.52 _total_ (Full size Sedan); $218.76 _total_ (Standard SUV) |
+| **Enterprise** | 407 reviews 3.5 star | $265.51 _total_ (Full size Sedan); $529.71 _total_ (Standard SUV) |
+| **Herts** | 372 reviews 2.5 star | $320.83 _total_ (Full size Sedan); $481.31 _total_ (Standard SUV) |
 
 #### [Reference website](https://www.yelp.com/search?find_desc=airport+car+rental&find_loc=San+Diego%2C+CA)
 ### 2. Deep comparison
