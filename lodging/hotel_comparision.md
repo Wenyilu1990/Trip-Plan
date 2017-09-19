@@ -7,9 +7,9 @@ Based on the comparisons below, we decided to choose **Motel 6 San Diego Downtow
 
 **Location**: 1546 2nd Ave, San Diego, CA 92101
 
-**Rating**:3.4/5 based on 600 ratings on Google
+**Rating**: 3.4/5 based on 600 ratings on Google
 
-**Website**:https://www.motel6.com/en/motels.ca.san-diego.1419.html?lid=X_PMG_NaturalSearch_Local_Google_1419&utm_source=local&utm_medium=local&utm_campaign=googlelocal-1419
+**Website**: https://www.motel6.com/en/motels.ca.san-diego.1419.html?lid=X_PMG_NaturalSearch_Local_Google_1419&utm_source=local&utm_medium=local&utm_campaign=googlelocal-1419
 
 
 -------------
