@@ -13,14 +13,11 @@ Based on the comparisons below, we decided to choose **Motel 6 San Diego Downtow
 **Website**: https://www.motel6.com/en/motels.ca.san-diego.1419.html?lid=X_PMG_NaturalSearch_Local_Google_1419&utm_source=local&utm_medium=local&utm_campaign=googlelocal-1419
 
 
--------------
-Based on price on December 20 with 3 rooms
 
 Hotel comparison
 -------------
--------------
-Based on price on December 20 with 3 rooms in San Diego
 
+Based on price on December 20 with 3 rooms in San Diego
 
 **Motel 6 San Diego Downtown**
 1546 2nd Ave, San Diego, CA 92101
