@@ -19,6 +19,6 @@ Information are from [Global parking](http://globalairportparking.com/)
 * $22.45
 
 **4. Booking confirmation**
-![Booking confirmation] [Hotel receipt]
+![Booking confirmation] [Hotel receipt.jpg]
 
 
