@@ -6,7 +6,7 @@
 
 [Yelp review](https://www.yelp.com/biz/the-kebab-shop-san-diego-4?osq=The+Kebab+Shop)
 
-	When we come back from the Sunset Cliff Beach, we can enjoy a Midditeranean/Turkish meal with Kebab or Shwarma and unwind at the Kebab Shop restaurant which is just 5 minutes walk from our hotel. Average cost per person would be about $10.
+  When we come back from the Sunset Cliff Beach, we can enjoy a Midditeranean/Turkish meal with Kebab or Shwarma and unwind at the Kebab Shop restaurant which is just 5 minutes walk from our hotel. Average cost per person would be about $10.
 
 |Where to eat  |When to eat|What to eat                |Total Cost|
 |:------------:|:---------:|:-------------------------:|:--------:|
