@@ -1,5 +1,7 @@
-# Day 1 breakfast
-|Where|What|Total_cost($)|
-|-----|----|-------------|
-|Plane|Self-packed| 50   |
+# Day 1 (Dec 17) Breakfast
+### @ Home
+
+|Where to eat|What to eat|Total_cost|
+|:----------:|:---------:|:--------:|
+|Home        |Own food   |    $50   |
 
