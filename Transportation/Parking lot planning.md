@@ -1,5 +1,5 @@
 # Transportation day one (go to the airport)
-**1. Parking lot comparison**
+### 1. Parking lot comparison
 * Because the price for hotel parking is much cheaper, so the next table compares parking price rate of different hotels.
 
 | Hotel names | Price rate | shuttle bus running time |
@@ -12,13 +12,14 @@
 
 Information are from [Global parking](http://globalairportparking.com/) 
 
-**2. Dicission Making**
+### 2. Dicission Making
 * After comparision, we decided to park in Renaissance Hotel STL, **_becuase first of all_** the price rate is cheaper than average rate; **_Secondly_** the location is just 1 mile away from the airport; **_Thirdly_** the suttle bust is 24/7 hours, every 20 minutes will have next turn, which means we do not have to hurry.
 
-**3. Total Price for 5 days**
+### 3. Total Price for 5 days
 * $22.45
 
-**4. Booking confirmation**
-![alt text](Hotel receipt.jpg)
+### 4. Booking confirmation
+![Comfirmation](Hotel-Parking.jpg)
+
 
 
