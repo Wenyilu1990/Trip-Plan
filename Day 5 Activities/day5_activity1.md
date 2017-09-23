@@ -7,4 +7,4 @@ The USS Midway Museum is an unforgettable adventure for the entire family. Guest
 
 |Where             |When     |Total cost|
 |:----------------:|:-------:|:--------:|
-|USS Midway Museum|10:00 am - 12:00 pm| $65 + $20(parking)|   
+|USS Midway Museum|10:00 am - 12:00 pm| $65|   
