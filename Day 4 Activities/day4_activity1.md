@@ -8,4 +8,4 @@
 
 |Where             |When     |Total cost|
 |:----------------:|:-------:|:--------:|
-|Hollywood Walk of Fame|9 - 10:30 am| Free     |   
+|Hollywood Walk of Fame|9 - 10:30 am| $30(parking)|   
