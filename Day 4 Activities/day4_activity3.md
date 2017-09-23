@@ -13,4 +13,4 @@ basin.
 
 |Where             |When     |Total cost|
 |:----------------:|:-------:|:--------:|
-|Griffith Park|13:00 pm - 17:30 pm| free|   
+|Griffith Park|13:00 pm - 17:30 pm| $30(parking)|   
