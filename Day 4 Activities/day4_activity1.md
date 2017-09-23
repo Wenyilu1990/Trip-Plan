@@ -1,4 +1,4 @@
-# Day 4 (Dec 20) Activity 2
+# Day 4 (Dec 20) Activity 1
 ### @ Hollywood Walk of Fame ( 9 - 10:30 am)
 
   The Hollywood Walk of Fame is an internationally-recognized Hollywood icon. With about 24 induction ceremonies annually broadcast around the world, the constant reinforcement provided to the public has made the Walk of Fame a top visitor attraction. The Hollywood Walk of Fame is undoubtedly one of the most successful marketing ideas ever produced. 
