@@ -6,4 +6,4 @@ We will drive to the airport and end our trip at west coast.
 
 |Where             |When     |Total cost|
 |:----------------:|:-------:|:--------:|
-|San Diego International Airport|14:00 pm - 15:00 pm| $5 for gas |   
+|San Diego International Airport|14:00 pm - 15:00 pm| free|   
