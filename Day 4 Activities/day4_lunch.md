@@ -6,7 +6,6 @@
 
 [Yelp review](https://www.yelp.com/adredir?ad_business_id=cfwIZRwBON93wdQvk_YK_g&campaign_id=vuhhvk3AzpdGSVfneArGEg&click_origin=search_results&placement=above_search&redirect_url=https%3A%2F%2Fwww.yelp.com%2Fbiz%2Fcanters-deli-los-angeles-5&request_id=f861776f31378e73&signature=78b81f91be6e39160ed31f7184379495b7e0384b74420a0bcf045e617dfa88e6&slot=0)
 
-  We will take out subs and have our breakfast in the car.
 
 |Where to eat  |When to eat|What to eat                |Total Cost|
 |:------------:|:---------:|:-------------------------:|:--------:|
