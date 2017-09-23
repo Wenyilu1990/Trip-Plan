@@ -1,5 +1,5 @@
 # Day 4 (Dec 20) Lunch
-### @Canter's Restaurant, Bakery, Deli and Bar( 12:30 am ~ 1:30 pm)
+### @Canter's Restaurant, Bakery, Deli and Bar( 12:30 apm ~ 1:30 pm)
 [Location: 419 N Fairfax Ave, Los Angeles, CA 90036](https://https://www.google.com/maps/place/Canter's+Restaurant,+Bakery,+Deli+and+Bar/@34.0789,-118.3704767,15z/data=!4m15!1m9!2m8!1sRestaurants!3m6!1sRestaurants!2sLos+Angeles+County+Museum+of+Art,+5905+Wilshire+Blvd,+Los+Angeles,+CA+90036!3s0x80c2b93cca9c7ab1:0x9b191d3aac3e37!4m2!1d-118.3592293!2d34.0639323!3m4!1s0x80c2b9332567369f:0xdd02eb055810bfaa!8m2!3d34.0789!4d-118.361722)
 
 [Website: http://www.cantersdelila.com/]( http://www.cantersdelila.com/)
@@ -9,4 +9,4 @@
 
 |Where to eat  |When to eat|What to eat                |Total Cost|
 |:------------:|:---------:|:-------------------------:|:--------:|
-|Canter's Restaurant|12:30 am ~ 1:30 pm       |Bakeries                   |$50       |
+|Canter's Restaurant|12:30 pm ~ 1:30 pm       |Bakeries                   |$50       |
