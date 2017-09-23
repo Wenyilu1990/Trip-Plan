@@ -11,5 +11,5 @@
 
 |Where                 |When  |What to eat|Total cost|
 |:--------------------:|:----:|:---------:|:--------:|
-|Fish Market Restaurant| 6 pm | Seafood   | $25      |
+|Fish Market Restaurant| 6 pm | Seafood   | $125     |
 
