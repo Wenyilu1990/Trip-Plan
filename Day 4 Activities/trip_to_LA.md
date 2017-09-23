@@ -3,3 +3,4 @@
 
   After breakfast, we drive Car to LA and our journey in LA begins.
 
+  Estimated cost of gas: $12.18
