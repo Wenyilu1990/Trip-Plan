@@ -7,4 +7,4 @@
 
 |Where             |When     |Total cost|
 |:----------------:|:-------:|:--------:|
-|Hollywood Sign|10:30 - 12:30 pm| $20(parking)|   
+|Hollywood Sign|10:30 - 12:30 pm| free|   
