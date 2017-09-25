@@ -7,7 +7,7 @@
 
 The freshly baked Mexican cakes are filled with freshly fried fish, filled with parsley, onions, tomatoes, lettuce, with a layer of special sauce and lemon juice, a bite seems to be back into the harbor. Santiago's Fish Taco and the fresh Ceviche are well known, after all here is the Mexican border.
 
-![Image of Oscar's Mexican Seafood](Oscar's Mexican Seafood.jpg)
+![Image of Oscar's Mexican Seafood](OscarSea.jpg)
 
 |Where to eat           |What to eat    |Total cost|
 |:---------------------:|:-------------:|:--------:|
