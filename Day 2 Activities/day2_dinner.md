@@ -6,7 +6,7 @@
 
   Exquisite dinner. A variety of Prosciutto pizza are fresh and delicious, too much creative pizza. Other pasta, pasta and dessert are good, no one dish has made me disappointed, point a bottle of red wine will be better ~
 
-  ![Image of Buona Forchetta](Buona Forchetta.jpg)
+  ![Image of Buona Forchetta](Buona.jpg)
 
 
 |Where to eat  |When to eat|What to eat                |Total Cost|
