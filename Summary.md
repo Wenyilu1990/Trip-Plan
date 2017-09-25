@@ -22,6 +22,16 @@ For the Fourth day, we will drive to Los Angeles for city exploring. Places incl
 For the fifth day, our flight will take off on 4:00 PM, so in the morning, we will go to Midway Museum. After a relaxing sightseeing, we will go back to Columbia and have a baby nap.
 [Detail information about Day five Activities](https://github.com/Wenyilu1990/Trip-Plan/tree/master/Day%205%20Activities)
 
-
+## Actual Spending Calculation
+| Part | Total Fee |
+| --- | --- |
+| Pre-trip | $3400 |
+| Activity 1 | $150 |
+| Activity 2 | $370 |
+| Activity 3 | $780 |
+| Activity 4 | $200 |
+| Activity 5 | $280 |
+| Transportation | $215 |
+| Total actual spending (Plus tax) | $6000 |
 
 
