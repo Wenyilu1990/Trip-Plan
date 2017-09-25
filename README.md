@@ -17,4 +17,4 @@ Our team 18 applied **Scrum** to manage the whole process. In the last two weeks
 
 All our developing procedures can be monitered in [Axosoft](https://xinzhou.axosoft.com/) and [Github](https://github.com/Wenyilu1990/Trip-Plan).
 
-# Thanks for watching!
+### Thanks for watching!
