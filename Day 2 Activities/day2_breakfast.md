@@ -6,7 +6,7 @@
 
 The Cottage's fresh American cuisine is very hot in the area, you have to wait for a seat if you are late. Crabcakes, Egg Benedicts, French toast and all kinds of fresh juices are fantastic.
 
-![Image of The Cottage La Jolla](The Cottage La Jolla .jpg)
+![Image of The Cottage La Jolla](CottageLaJolla.jpg)
 
 |Where to eat        |What to eat      |Total_cost|
 |:------------------:|:---------------:|:--------:|
