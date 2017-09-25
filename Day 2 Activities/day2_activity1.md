@@ -3,8 +3,7 @@
 
   After breakfast, the first activity is just nearby the restaurant and it will start from 11:00am at La Jolla Cove.
   La Jolla Cove is a famous natural ecological area in Southern California, you can see the lovely seals on the beach, as well as flying seagulls and small squirrels running around.
-
-  ![JPGFile](La Jolla Cove.jpg)
+![JPGFile](La Jolla Cove.jpg)
 
   |Where        |When       |Total_cost|
   |:-----------:|:---------:|:--------:|
