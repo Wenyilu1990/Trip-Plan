@@ -28,10 +28,10 @@ For the fifth day, our flight will take off on 4:00 PM, so in the morning, we wi
 | Pre-trip | $3400 |
 | Activity 1 | $150 |
 | Activity 2 | $370 |
-| Activity 3 | $780 |
+| Activity 3 | $1000 |
 | Activity 4 | $200 |
 | Activity 5 | $280 |
 | Transportation | $215 |
-| Total actual spending (Plus tax) | $6000 |
+| Total actual spending (Plus tax) | $6300 |
 
 
