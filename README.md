@@ -13,7 +13,7 @@ You can find our Detail initial planning [here](https://docs.google.com/document
 
 ## Brief Summary about our developement procedure
 
-Our team 18 applied **Scrum** to manage the whole process. In the last two weeks development period, we had **4 all-hands meetings**, including **_Product owner Anes_**, **_Scrum master Wenyi_**, **_developers Chenchen, Jianshen and Xinzhou_**, to review previous work and plan future work. Besides, we had **focus meetings**, which just including Scrum master and developers, to distribute tasks for just 15 minutes every day. 
+Our team 18 applied **Scrum** to manage the whole process. In the last two weeks development period, we had **4 all-hands meetings**, including **_Product owner Anes_**, **_Scrum master Wenyi_**, **_developers Chenchen, Jianshen and Xinzhou_**, to review previous work and plan future work. Besides, we had **focus meetings**, which just includes Scrum master and developers, to distribute tasks for just 15 minutes every day. 
 
 All our developing procedures can be monitered in [Axosoft](https://xinzhou.axosoft.com/) and [Github](https://github.com/Wenyilu1990/Trip-Plan).
 
