@@ -3,7 +3,7 @@
 
 Standing on the edge of the Cabrillo National Monument can see the beautiful sea view from the top(many people said that this is the best place to see the see view in San Diego), and the border of San Diego and Mexico is also able to see.
 
-![Image of Cabrillo National Monument](https://github.com/Wenyilu1990/Trip-Plan/tree/Sprint-3/Day%202%20Activities/Cabrillo%20National%20Monument.jpg)
+![Image of Cabrillo National Monument](Cabrillo National Monument.jpg)
 
 Cabrillo Entrance Fee - Per non commercial vehicle - **$10.00 USD**
 
