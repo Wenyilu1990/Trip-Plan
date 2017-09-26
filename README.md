@@ -13,7 +13,7 @@ You can find our Detail initial planning [here](https://docs.google.com/document
 
 ## Brief Summary about our developement procedure
 
-After carefully planning our trip day by day, we frame up a [summary file](https://github.com/Wenyilu1990/Trip-Plan/blob/master/Summary.md), where you can see detail information about our trip arrangement and acctual spending.
+After carefully planning our trip day by day, we frame up a [summary file](https://github.com/Wenyilu1990/Trip-Plan/blob/master/Summary.md), where you can see detail information about our trip arrangement and acctual final cost.
 
 Our team 18 applied **Scrum** to manage the whole process. In the last two weeks development period, we had **4 all-hands meetings**, including **_Product owner Anes_**, **_Scrum master Wenyi_**, **_developers Chenchen, Jianshen and Xinzhou_**, to review previous work and plan future work. Besides, we had **focus meetings**, which just includes Scrum master and developers, to distribute tasks for just 15 minutes every day. 
 
